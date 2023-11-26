@@ -1,14 +1,14 @@
-package com.example.vize;
+package com.example.deneme;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Sms extends AppCompatActivity {
+public class Random extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sms);
+        setContentView(R.layout.activity_random);
     }
 }

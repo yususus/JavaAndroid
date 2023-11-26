@@ -1,4 +1,4 @@
-package com.example.vize;
+package com.example.deneme;
 
 import org.junit.Test;
 
