@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Deneme"
+rootProject.name = "Vize"
 include(":app")

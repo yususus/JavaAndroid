@@ -1,7 +1,7 @@
-package com.example.deneme;
+package com.example.vize;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import android.widget.TextView;
 import android.os.Bundle;
 
 public class Random extends AppCompatActivity {

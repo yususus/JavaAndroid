@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.deneme"
+    namespace = "com.example.vize"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.deneme"
+        applicationId = "com.example.vize"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
